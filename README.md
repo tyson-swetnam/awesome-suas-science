@@ -175,3 +175,5 @@ Structure from Motion photogrammetry is a technique, most commercial drones now 
 - [Drone Mapper](https://dronemapper.com/sample_data/) - sample data :dollar:
 
 ## Community
+
+- [Australia Scalable Drone Cloud](https://github.com/AuScalableDroneCloud)
